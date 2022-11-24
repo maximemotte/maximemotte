@@ -5,9 +5,6 @@
 - 📫 How to reach me: [via email](https://meta.wikimedia.org/wiki/Special:EmailUser/Yug)
 
 
-<p align="center">
-  <img src="images/userstats.svg" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=maximemotte" />
