@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hugolpz" />
+  <img src="https://streak-stats.demolab.com?user=maximemotte" />
 </p>
 
 <p align="center">
