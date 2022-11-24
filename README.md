@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hugolpz&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hugolpz&theme=default" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hugolpz&theme=default&utcOffset=1" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maximemotte&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maximemotte&theme=default" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maximemotte&theme=default&utcOffset=1" />
 </p>
