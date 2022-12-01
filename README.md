@@ -1,6 +1,6 @@
 - 👋 I am **Maxime Motte**. I am a **data analyst**.
 - 👀 I’m interested in data analysis
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Business Intelligence.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [via email](https://meta.wikimedia.org/wiki/Special:EmailUser/Yug)
 
